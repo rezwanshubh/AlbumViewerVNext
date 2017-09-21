@@ -1,0 +1,9 @@
+D:\Git\AlbumViewerVNext\src\AlbumViewerBusiness\bin\Debug\netstandard2.0\AlbumViewerBusiness.deps.json
+D:\Git\AlbumViewerVNext\src\AlbumViewerBusiness\bin\Debug\netstandard2.0\AlbumViewerBusiness.dll
+D:\Git\AlbumViewerVNext\src\AlbumViewerBusiness\bin\Debug\netstandard2.0\AlbumViewerBusiness.pdb
+D:\Git\AlbumViewerVNext\src\AlbumViewerBusiness\obj\Debug\netstandard2.0\AlbumViewerBusiness.csprojResolveAssemblyReference.cache
+D:\Git\AlbumViewerVNext\src\AlbumViewerBusiness\obj\Debug\netstandard2.0\AlbumViewerBusiness.csproj.CoreCompileInputs.cache
+D:\Git\AlbumViewerVNext\src\AlbumViewerBusiness\obj\Debug\netstandard2.0\AlbumViewerBusiness.AssemblyInfoInputs.cache
+D:\Git\AlbumViewerVNext\src\AlbumViewerBusiness\obj\Debug\netstandard2.0\AlbumViewerBusiness.AssemblyInfo.cs
+D:\Git\AlbumViewerVNext\src\AlbumViewerBusiness\obj\Debug\netstandard2.0\AlbumViewerBusiness.dll
+D:\Git\AlbumViewerVNext\src\AlbumViewerBusiness\obj\Debug\netstandard2.0\AlbumViewerBusiness.pdb

@@ -1,0 +1,14 @@
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\bin\Debug\netcoreapp2.0\albums.js
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\bin\Debug\netcoreapp2.0\AlbumViewerNetCore.deps.json
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\bin\Debug\netcoreapp2.0\AlbumViewerNetCore.runtimeconfig.json
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\bin\Debug\netcoreapp2.0\AlbumViewerNetCore.runtimeconfig.dev.json
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\bin\Debug\netcoreapp2.0\AlbumViewerNetCore.dll
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\bin\Debug\netcoreapp2.0\AlbumViewerNetCore.pdb
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\bin\Debug\netcoreapp2.0\AlbumViewerBusiness.dll
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\bin\Debug\netcoreapp2.0\AlbumViewerBusiness.pdb
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\obj\Debug\netcoreapp2.0\AlbumViewerNetCore.csprojResolveAssemblyReference.cache
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\obj\Debug\netcoreapp2.0\AlbumViewerNetCore.csproj.CoreCompileInputs.cache
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\obj\Debug\netcoreapp2.0\AlbumViewerNetCore.AssemblyInfoInputs.cache
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\obj\Debug\netcoreapp2.0\AlbumViewerNetCore.AssemblyInfo.cs
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\obj\Debug\netcoreapp2.0\AlbumViewerNetCore.dll
+D:\Git\AlbumViewerVNext\src\AlbumViewerNetCore\obj\Debug\netcoreapp2.0\AlbumViewerNetCore.pdb

@@ -5,6 +5,9 @@
     <MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
     <!--<AssetTargetFallback>$(AssetTargetFallback);portable-net45+win8+wp8+wpa81;</AssetTargetFallback>-->    
   </PropertyGroup>
+  <ItemGroup>
+    <None Remove="AlbumViewerData.sqlite-journal" />
+  </ItemGroup>
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
